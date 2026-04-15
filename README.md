@@ -27,4 +27,4 @@ LDR (sensor de luz) + resistor (divisor de tensão),
 Display LCD 16x2,
 3 LEDs (verde, amarelo, vermelho) + resistores,
 Buzzer,
-Protoboard e fios,
+Protoboard e fios
