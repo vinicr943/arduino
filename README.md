@@ -1,8 +1,8 @@
-Descrição do projeto
+Descrição do projeto:
 Sistema embarcado de monitoramento de luminosidade para ambientes sensíveis à luz (ex.: armazenamento de vinhos). Utiliza um sensor LDR para medir a intensidade luminosa, processa o sinal com normalização e ajuste de curva, e apresenta o resultado em um display LCD 16x2. A interface inclui indicadores visuais (LEDs verde, amarelo e vermelho), feedback simbólico (carinhas no LCD) e alerta sonoro (buzzer). O objetivo é manter o ambiente em níveis de penumbra, reduzindo exposição a luz excessiva que pode degradar compostos orgânicos.
 
 
-Como usar 
+Como usar:
 
 1. Ligação e inicialização
 Ao energizar, o sistema exibe uma mensagem de boas-vindas e inicia automaticamente o monitoramento.
@@ -21,10 +21,10 @@ Se houver alerta (amarelo/vermelho), reduzir a incidência de luz (fechar ambien
 Manter o sistema preferencialmente na faixa verde para preservação ideal
 
 
-Dependências 
-Arduino 
-LDR (sensor de luz) + resistor (divisor de tensão)
-Display LCD 16x2 
-3 LEDs (verde, amarelo, vermelho) + resistores
-Buzzer
-Protoboard e fios
+Dependências:
+Arduino, 
+LDR (sensor de luz) + resistor (divisor de tensão),
+Display LCD 16x2,
+3 LEDs (verde, amarelo, vermelho) + resistores,
+Buzzer,
+Protoboard e fios,
