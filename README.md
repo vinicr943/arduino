@@ -1,4 +1,4 @@
-https://www.tinkercad.com/things/jtdHvY8vy24-projeto-arduino
+https://www.tinkercad.com/things/jtdHvY8vy24-projeto-arduino/editel?returnTo=%2Fthings%2FjtdHvY8vy24-projeto-arduino&sharecode=TX5jRBdDFGCUAHICC-28PG7evv8MExcm97R1m_gG1Jo
 
 Descrição do projeto:
 Sistema embarcado de monitoramento de luminosidade para ambientes sensíveis à luz (ex.: armazenamento de vinhos). Utiliza um sensor LDR para medir a intensidade luminosa, processa o sinal com normalização e ajuste de curva, e apresenta o resultado em um display LCD 16x2. A interface inclui indicadores visuais (LEDs verde, amarelo e vermelho), feedback simbólico (carinhas no LCD) e alerta sonoro (buzzer). O objetivo é manter o ambiente em níveis de penumbra, reduzindo exposição a luz excessiva que pode degradar compostos orgânicos.
